@@ -3,6 +3,6 @@ package ru.geekstar;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// feature - Ветки должны иметь понятное имя и предназначены для разработки новой функциональности
     }
 }
